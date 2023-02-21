@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @HanzoYagami
-- 👀 I’m interested in ...Neuroscience
+- 👋 Hi, I’m @Jenifer Gonçalves da Silva 
+- 👀 I’m interested in ...Neuroscience, software and games developer
 - 🌱 I’m currently learning ...biotecnology and bioinformatics
 - 💞️ I’m looking to collaborate on ...science
 - 📫 How to reach me ...
